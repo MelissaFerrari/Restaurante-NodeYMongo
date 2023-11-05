@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "653992ffce2897085d15e8b1"
+  },
+  "fecha": "25/10/2023",
+  "cliente": "38851447",
+  "nombre": "Melissa Ferrari",
+  "plato_de_comida_1": "Pizza Vegana",
+  "cantidad_1": "2"
+}]
